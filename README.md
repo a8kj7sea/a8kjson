@@ -37,6 +37,8 @@ JSON written to file: /path/to/test.json
 Read JSON from file: {"status":"OK","random_data":{"id":12345,"name":"Example Name","value":67.89,"active":true}}
 ```
 
+
+
 ### TODO
 
 1. Improvements for JSON system
@@ -54,3 +56,11 @@ Read JSON from file: {"status":"OK","random_data":{"id":12345,"name":"Example Na
 5. Maybe POJO mapper and intro to mapper init
    - Consider adding a POJO mapper and introduction to initializing the mapper (not sure yet).
 
+
+## Notes
+
+To be honest, I didn’t fully understand the requirements, so I had to create a custom JSON library since external libraries are not allowed.
+
+The JSON implementation is not complete and is still not stable, but it is stable for the necessary functionality required right now. I can improve and optimize it in the future.
+
+Regarding the project, I tried to make it as flexible as possible.
