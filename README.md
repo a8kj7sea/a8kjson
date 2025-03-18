@@ -35,6 +35,7 @@ Status: OK
 ID: 12345
 JSON written to file: /path/to/test.json
 Read JSON from file: {"status":"OK","random_data":{"id":12345,"name":"Example Name","value":67.89,"active":true}}
+```
 
 ### TODO
 
@@ -52,3 +53,4 @@ Read JSON from file: {"status":"OK","random_data":{"id":12345,"name":"Example Na
 
 5. Maybe POJO mapper and intro to mapper init
    - Consider adding a POJO mapper and introduction to initializing the mapper (not sure yet).
+
