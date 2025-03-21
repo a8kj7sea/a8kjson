@@ -56,6 +56,12 @@ Read JSON from file: {"status":"OK","random_data":{"id":12345,"name":"Example Na
 5. Maybe POJO mapper and intro to mapper init
    - Consider adding a POJO mapper and introduction to initializing the mapper (not sure yet).
 
+6. Refactor json parser and add tiny processer for it 
+
+7. Support json array objects
+
+8. Add comments parser
+
 
 ## Notes
 
